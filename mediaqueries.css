@@ -6,3 +6,9 @@ tablet = 768px a 992px
 desktop = 992px a 1200px
 telas grandes/tv = acima de 1200p */
 
+@media screen and (min-width: 768px){
+    main{
+        width: 700px;
+        height: 1100px;
+    }
+}
